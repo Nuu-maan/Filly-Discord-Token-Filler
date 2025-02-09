@@ -1,0 +1,8 @@
+requests
+curl-cffi
+colorama
+concurrent.futures
+msvcrt
+ctypes
+pathlib
+dataclasses

@@ -1,0 +1,14 @@
+{
+    "threads": 10,
+    "proxyless": true,
+    "max_joins": 100,
+    "delay": 1,
+
+    
+    "captcha": {
+        "solve_captcha": true,
+        "service": "razorcap",
+        "apikey": "3e5fc347-dfd8-4b12-9ca3-e57f931c5fbc",
+        "proxyless": false
+    } 
+}
