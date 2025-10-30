@@ -52,7 +52,5 @@ The next version, **v2**, will introduce many new features, including:
 ## Contact
 You can reach out to us on Discord:
 - [Discord User ID](https://discord.com/users/877082451850178642)
-- [Join our Discord Server](https://discord.gg/api)
-
 ## License
 This project is open-source and released under the MIT License.
